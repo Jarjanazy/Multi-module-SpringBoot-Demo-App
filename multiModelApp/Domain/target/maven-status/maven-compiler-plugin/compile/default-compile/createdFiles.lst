@@ -1,0 +1,3 @@
+multiModelApp\Domain\Repos\DB_init.class
+multiModelApp\Domain\Repos\HumanRepo.class
+multiModelApp\Domain\Human.class
